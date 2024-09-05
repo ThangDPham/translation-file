@@ -296,7 +296,6 @@
         "37ab24f6ac1cd8252d344b3b2da61c75516be4eb69bd3c6356624e1333d3c693": "Commencez à utiliser les nouvelles fonctionnalités et techniques. ",
         "61cc17ac2ccfba8fbe940c81e0f7867ce5df07e2d5a4d6d0e3572a439fbb4d3a": "Pour plus d'informations, consultez ",
         "c8a475f573f59a36873b6447d928fd6db6a731f9daf7acbc53a0296b8f39cf46": "et  ",
-        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "‍",
         "76d15ec1d1932c3893d580ebbf80d9ee232f39c4f844df08479b490427bd0192": "SkyDeck AI a été issu de la société de génie logiciel East Agile après des années de R&D dans la formation de modèles GPT et le développement d'outils d'IA et d'affaires. L'équipe de SkyDeck est composée de CEO Lawrence W. Sinclair, CRO Gary C. Tate, et d'une équipe de data scientists et d'ingénieurs.  ",
         "5b284419809281739589bbdcd85794347bafcde7237844a7452df4ad2bf685c5": "SkyDeck.ai ",
         "218779d47e562abae2a86e09b86afd294682a46dbdcb6708bbded26fdeafb6d1": "Sécurisez les entreprises d'abord ",
@@ -528,7 +527,9 @@
         "8f530ba91a5ed7c53bafd4650d3feb5bf30bea60dc30178f7d82bd2956e51f0c": "Do Dolore",
         "04dc6d2251401d6941df9fae16d911d49c0900e6826d485f97cd671382b48e87": "Faire et S'asseoir",
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "Consectetur Adipiscing",
-        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "Asseyez-vous Asseyez-vous"
+        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "Asseyez-vous Asseyez-vous",
+        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Veuillez fournir le contenu en question et je procéderai à la traduction.",
+        "157dde044ca980219f6730b50d9d57d9398a09fe12d4ad10f1d8e5b2c4e94411": "met fortement l'accent sur la sécurité de l'IA. Caractéristiques clés telles que la Sécurité des Données avec chiffrement en mouvement et au repos, la Prévention de Perte de Données (DLP), et l'Authentification Unique (SSO), la journalisation, et l'analytique pour assurer la conformité avec les standards de sécurité IT, comme SOC 2, fournissant aux entreprises une plateforme IA d'entreprise sécurisée, évolutive, et fiable."
     },
     "ja": {
         "6ca41c929e3150a84cf42fb869e42f8ccd1205b4eb1e90d6ddee0089548783e1": "ブログ投稿",
@@ -827,7 +828,6 @@
         "37ab24f6ac1cd8252d344b3b2da61c75516be4eb69bd3c6356624e1333d3c693": "新機能や技術をすぐに使い始めましょう。 ",
         "61cc17ac2ccfba8fbe940c81e0f7867ce5df07e2d5a4d6d0e3572a439fbb4d3a": "詳細については、こちらをご覧ください ",
         "c8a475f573f59a36873b6447d928fd6db6a731f9daf7acbc53a0296b8f39cf46": "および  ",
-        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "了解、計画、成長  \n\n私たちのソリューションは、貴社のデータから価値を引き出し、インサイトを提供するために設計されています。  \n\n分析およびデータ管理  \nユーザーの操作性を重視した直感的なプラットフォームで、貴社のデータを最大限に活用してください。最新の AI と機械学習技術を活用して、インテリジェントなビジネス意思決定を支援します。  \n\nセキュリティ  \nデータの安全性は最も重要です。我々の高度なセキュリティ対策とプロトコルにより、貴社の情報を保護します。  \n\nクラウド・ソリューション  \nフレキシブルなクラウドインフラストラクチャを提供し、スケーラビリティ、パフォーマンス、および信頼性を備えたソリューションを提供します。  \n\nInnovation through collaboration  \n私たちは、協力を通じてイノベーションを推進しています。貴社のニーズに合わせたカスタマイズ可能なソリューションを提供するために、常にパートナーシップを重んじています。  \n\n顧客サポート  \n私たちのサポートチームは、24時間365日対応しています。トラブルシューティング、コンサルティング、技術サポートを提供し、貴社の成功をサポートします。  \n\n‍",
         "76d15ec1d1932c3893d580ebbf80d9ee232f39c4f844df08479b490427bd0192": "SkyDeck AIは、GPTモデルのトレーニングおよびAIとビジネスツールの開発における数年間の研究開発の後、ソフトウェアエンジニアリング企業East Agileからスピンアウトされました。 \nSkyDeckチームはCEOのLawrence W. Sinclair、CROのGary C. Tate、およびデータサイエンティストとエンジニアのチームで構成されています。  ",
         "5b284419809281739589bbdcd85794347bafcde7237844a7452df4ad2bf685c5": "SkyDeck.ai ",
         "218779d47e562abae2a86e09b86afd294682a46dbdcb6708bbded26fdeafb6d1": "ビジネスを第一に守る ",
@@ -1059,7 +1059,9 @@
         "8f530ba91a5ed7c53bafd4650d3feb5bf30bea60dc30178f7d82bd2956e51f0c": "Do Dolore",
         "04dc6d2251401d6941df9fae16d911d49c0900e6826d485f97cd671382b48e87": "行うエト座る",
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "Consectetur Adipiscing",
-        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "座る 座る"
+        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "座る 座る",
+        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "もちろん、翻訳をするために正確なテキストを提供していただく必要があります。内容を入力してください。",
+        "157dde044ca980219f6730b50d9d57d9398a09fe12d4ad10f1d8e5b2c4e94411": "AIセキュリティを強調しています。 データセキュリティには、移動中および保存時の暗号化、データ損失防止 (DLP)、シングルサインオン (SSO)、ログ記録、および分析などの重要な機能が含まれ、SOC 2 などのITセキュリティ標準に準拠し、安全でスケーラブルかつ信頼性の高いエンタープライズAIプラットフォームを企業に提供します。"
     },
     "ko": {
         "6ca41c929e3150a84cf42fb869e42f8ccd1205b4eb1e90d6ddee0089548783e1": "블로그 게시물",
@@ -1358,7 +1360,6 @@
         "37ab24f6ac1cd8252d344b3b2da61c75516be4eb69bd3c6356624e1333d3c693": "새로운 기능과 기술을 시작하고 실행하십시오. ",
         "61cc17ac2ccfba8fbe940c81e0f7867ce5df07e2d5a4d6d0e3572a439fbb4d3a": "자세한 내용은 확인하세요 ",
         "c8a475f573f59a36873b6447d928fd6db6a731f9daf7acbc53a0296b8f39cf46": "그리고  ",
-        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Sure, please provide the text you need translated.",
         "76d15ec1d1932c3893d580ebbf80d9ee232f39c4f844df08479b490427bd0192": "SkyDeck AI는 GPT 모델 훈련과 AI 및 비즈니스 도구 개발에서 몇 년간의 연구 개발 끝에 소프트웨어 엔지니어링 회사인 East Agile에서 분사되었습니다. SkyDeck 팀은 CEO Lawrence W. Sinclair, CRO Gary C. Tate 및 데이터 과학자와 엔지니어 팀으로 구성되어 있습니다.  ",
         "5b284419809281739589bbdcd85794347bafcde7237844a7452df4ad2bf685c5": "SkyDeck.ai ",
         "218779d47e562abae2a86e09b86afd294682a46dbdcb6708bbded26fdeafb6d1": "안전한 비즈니스 우선 ",
@@ -1590,7 +1591,9 @@
         "8f530ba91a5ed7c53bafd4650d3feb5bf30bea60dc30178f7d82bd2956e51f0c": "고통을 참다",
         "04dc6d2251401d6941df9fae16d911d49c0900e6826d485f97cd671382b48e87": "두 엣 싯",
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "컨섹테투어 애디피싱",
-        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "앉아 앉아"
+        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "앉아 앉아",
+        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Sure, please provide the specific content from the software and technology corporate website that you would like to have translated, and I'll be happy to assist!",
+        "157dde044ca980219f6730b50d9d57d9398a09fe12d4ad10f1d8e5b2c4e94411": "AI 보안에 강한 비중을 둡니다. 데이터 손실 방지(DLP), 싱글 사인온(SSO), 로깅 및 분석과 같은 주요 기능으로 이동 중 및 저장 중에도 암호화된 데이터 보안을 제공하며, SOC 2와 같은 IT 보안 표준을 준수하여 기업에 안전하고 확장 가능하며 신뢰할 수 있는 엔터프라이즈 AI 플랫폼을 제공합니다."
     },
     "es": {
         "6ca41c929e3150a84cf42fb869e42f8ccd1205b4eb1e90d6ddee0089548783e1": "Publicaciones del blog",
@@ -1889,7 +1892,6 @@
         "37ab24f6ac1cd8252d344b3b2da61c75516be4eb69bd3c6356624e1333d3c693": "Ponte en marcha con nuevas funciones y técnicas. ",
         "61cc17ac2ccfba8fbe940c81e0f7867ce5df07e2d5a4d6d0e3572a439fbb4d3a": "Para más información, consulte nuestro ",
         "c8a475f573f59a36873b6447d928fd6db6a731f9daf7acbc53a0296b8f39cf46": "y  ",
-        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "‍",
         "76d15ec1d1932c3893d580ebbf80d9ee232f39c4f844df08479b490427bd0192": "SkyDeck AI se ha escindido de la firma de ingeniería de software East Agile después de años de investigación y desarrollo (R&D) en el entrenamiento de modelos GPT y el desarrollo de herramientas de IA y negocio. El equipo de SkyDeck consta del CEO Lawrence W. Sinclair, el CRO Gary C. Tate, y un equipo de científicos de datos e ingenieros.  ",
         "5b284419809281739589bbdcd85794347bafcde7237844a7452df4ad2bf685c5": "SkyDeck.ai ",
         "218779d47e562abae2a86e09b86afd294682a46dbdcb6708bbded26fdeafb6d1": "Negocios Seguros Primero ",
@@ -2121,7 +2123,9 @@
         "8f530ba91a5ed7c53bafd4650d3feb5bf30bea60dc30178f7d82bd2956e51f0c": "Hacer Dolore",
         "04dc6d2251401d6941df9fae16d911d49c0900e6826d485f97cd671382b48e87": "Haz Et Sentado",
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "Consectetur Adipiscing",
-        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "Siéntate Siéntate"
+        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "Siéntate Siéntate",
+        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "‍Transformamos la manera en que las empresas operan.\n\nOptimiza tus procesos con nuestras soluciones de clase mundial \n\nDescubre más sobre nuestras soluciones\n\nSoluciones\n\nConsultoría en Transformación Digital\n\nEstrategias personalizadas para llevar tu negocio al siguiente nivel. \n\nCloud Computing\n\nPotencia tu infraestructura con servicios en la nube seguros y escalables. \n\n‍Ciberseguridad\n\nProtege tu información con nuestras soluciones integrales de seguridad. \n\nInteligencia Artificial y Machine Learning\n\nMaximiza el valor de tus datos con tecnologías de IA y ML. \n\nServicios \n\n‍Atención al Cliente\n\nSoporte 24/7 para asegurarte de que siempre estés en funcionamiento. \n\nFormación y Capacitación\n\nEmpodera a tu equipo con el conocimiento que necesita para triunfar. \n\nTecnologías Emergentes\n\nMantente a la vanguardia con nuestras innovadoras soluciones. \n\nCasos de Estudio\n\n‍Optimización de Procesos con AI \n\nDescubre cómo ayudamos a una empresa global a mejorar su eficiencia operativa. \n\nMejora de la Seguridad Informática\n\nLee sobre nuestra colaboración para fortalecer las defensas digitales de una institución financiera. \n\nEstrategia de Transformación Digital\n\nConoce nuestra experiencia en la creación de estrategias digitales sólidas para grandes corporaciones.\n\nSobre Nosotros \n\nVisión y Misión\n\nNuestra misión es transformar la manera en que operan las empresas con tecnología avanzada.\n\nNuestro Equipo\n\nConoce a los expertos que están detrás de nuestras soluciones innovadoras.\n\nCarreras\n\nÚnete a nuestro equipo y ayuda a dar forma al futuro de la tecnología. \n\n‍Contáctanos \n\n¿Listo para transformar tu negocio? \nPonte en contacto con nosotros hoy mismo. \n\nUbicación\n\n1234 Calle Principal, Ciudad, País\n\n‍Síguenos en Redes Sociales",
+        "157dde044ca980219f6730b50d9d57d9398a09fe12d4ad10f1d8e5b2c4e94411": "pone un fuerte énfasis en la seguridad de la IA. Características clave como Seguridad de Datos con encriptación en movimiento y en reposo, Prevención de Pérdida de Datos (DLP), y Single Sign-On (SSO), registro de eventos, y analítica para asegurar el cumplimiento con los estándares de seguridad de TI, como SOC 2, proporcionando a las empresas una plataforma de IA empresarial segura, escalable y confiable."
     },
     "it": {
         "6ca41c929e3150a84cf42fb869e42f8ccd1205b4eb1e90d6ddee0089548783e1": "Post del Blog",
@@ -2420,7 +2424,6 @@
         "37ab24f6ac1cd8252d344b3b2da61c75516be4eb69bd3c6356624e1333d3c693": "Avvia e utilizza nuove funzionalità e tecniche. ",
         "61cc17ac2ccfba8fbe940c81e0f7867ce5df07e2d5a4d6d0e3572a439fbb4d3a": "Per ulteriori informazioni visita ",
         "c8a475f573f59a36873b6447d928fd6db6a731f9daf7acbc53a0296b8f39cf46": "e  ",
-        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Certo, forniscimi il testo che desideri tradurre in italiano e procederò con la traduzione.",
         "76d15ec1d1932c3893d580ebbf80d9ee232f39c4f844df08479b490427bd0192": "SkyDeck AI è stata derivata dalla società di ingegneria del software East Agile dopo anni di ricerca e sviluppo nella formazione di modelli GPT e nello sviluppo di strumenti di intelligenza artificiale e business. Il team di SkyDeck è composto dal CEO Lawrence W. Sinclair, dal CRO Gary C. Tate e da un team di data scientist e ingegneri.  ",
         "5b284419809281739589bbdcd85794347bafcde7237844a7452df4ad2bf685c5": "SkyDeck.ai ",
         "218779d47e562abae2a86e09b86afd294682a46dbdcb6708bbded26fdeafb6d1": "Sicurezza dell'azienda al primo posto ",
@@ -2652,6 +2655,8 @@
         "8f530ba91a5ed7c53bafd4650d3feb5bf30bea60dc30178f7d82bd2956e51f0c": "Do Dolore",
         "04dc6d2251401d6941df9fae16d911d49c0900e6826d485f97cd671382b48e87": "Do Et Sit",
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "Consectetur Adipiscing",
-        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "Sedersi Sedersi"
+        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "Sedersi Sedersi",
+        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "‍",
+        "157dde044ca980219f6730b50d9d57d9398a09fe12d4ad10f1d8e5b2c4e94411": "pone una forte enfasi sulla sicurezza dell'IA. Funzionalità chiave come la Sicurezza dei Dati con crittografia in movimento e a riposo, Prevenzione della Perdita di Dati (DLP) e Single Sign-On (SSO), logging e analytics per garantire la conformità agli standard di sicurezza IT, come SOC 2, fornendo alle aziende una piattaforma AI aziendale sicura, scalabile e affidabile."
     }
 }
