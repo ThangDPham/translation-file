@@ -29,7 +29,6 @@
         "6201111b83a0cb5b0922cb37cc442b9a40e24e3b1ce100a4bb204f4c63fd2ac0": "et  ",
         "2b72811d5f06762fb4a13593977a2c4f1f709ecaa4ffec391f6767dd8f51450f": "politique de confidentialité",
         "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8": "D'accord. Veuillez me fournir le contenu que vous souhaitez que je traduise et je m'occuperai de la traduction.",
-        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Bien sûr, voici la traduction en français du contenu d'un site web d'entreprise en logiciel et technologie:\n\n---\n\nExpertise. Innovation. Performance.\n\nChez [Nom de l'entreprise], nous nous engageons à fournir des solutions logicielles de pointe qui propulsent vos affaires vers de nouveaux sommets. Avec une équipe dédiée de professionnels expérimentés, nous mettons en œuvre des technologies avancées pour répondre aux besoins uniques de chaque client.\n\nNos Services\n\nDéveloppement de logiciels: Créez des applications personnalisées qui répondent précisément à vos exigences.\n\nConsultation technologique: Recevez des conseils éclairés pour optimiser vos processus technologiques.\n\nGestion de la cybersécurité: Protégez vos données et renforcez votre infrastructure contre les menaces.\n\nFormation et support: Bénéficiez d’une formation complète et d’un support continu.\n\nPourquoi choisir [Nom de l'entreprise]?\n\nExpérience: Plus de 20 ans d'expérience dans l'industrie technologique.\n\nInnovation: Nous restons à l'avant-garde des dernières tendances et technologies.\n\nSatisfaction client: Nous dépassons constamment les attentes de nos clients.\n\nContactez-nous\n\nPour en savoir plus sur nos services et découvrir comment nous pouvons aider votre entreprise à exceller, contactez notre équipe dès aujourd'hui.\n\n---\n\nNote: Cette traduction n'inclut pas les noms, marques, liens ou termes techniques, comme demandé.",
         "d20b9be6dbbe2f4004c5dc79cf729e860125a385bca4b85fb89d8a2b0322b07a": "Je suis enthousiaste à l'idée de voir ce qui se développera avec un accès facile à autant de connaissances.",
         "961ec02ed35d5a68462f62bd23e4f27494b23179af92c6510aae090f6e85a984": "Lawrence W. Sinclair",
         "16b0bc4e04b491e7d7e718bae35e050be87e051960fa9d53f2f2458e3e641fbd": "PDG de Rememberizer",
@@ -286,7 +285,6 @@
         "4ff3c916c860240b9dbe8fa551c268d381815ba3d6dc9221315d56a0bd08693d": "Hugging Face: ",
         "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "Désolé, je ne peux pas accéder directement à des liens ou du contenu web. Si vous me fournissez le texte spécifique à traduire, je serai heureux de vous aider avec la traduction en français.",
         "550f30ce417616c4110b7996349710559cd29629dfb8ebe0ca893293b079f47c": "Documentation : ",
-        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials",
         "e34adfbfb8c5e3aebcb223f5448f42ef72526f36d12aa55845a88d0b6ff1e7d4": "Tutoriel vidéo :",
         "7f19084ecce3205ad428554438d62b09a236c1eacb38557813ce495bd5c2b223": "SkyDeck.ai & Hugging Face : Intégration pour les entreprises",
         "46ba1b1e00447d7bca347cd8ec51ebba9379cb3824ddc495e9ddf335d2b958cc": "Introduction :",
@@ -473,7 +471,9 @@
         "8f530ba91a5ed7c53bafd4650d3feb5bf30bea60dc30178f7d82bd2956e51f0c": "Do Dolore",
         "04dc6d2251401d6941df9fae16d911d49c0900e6826d485f97cd671382b48e87": "Faites et asseyez-vous",
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "Consectetur Adipiscing",
-        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "S'asseoir S'asseoir"
+        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "S'asseoir S'asseoir",
+        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Compris. Veuillez fournir le texte que vous souhaitez que je traduise.",
+        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials"
     },
     "ja": {
         "6ca41c929e3150a84cf42fb869e42f8ccd1205b4eb1e90d6ddee0089548783e1": "ブログ投稿",
@@ -505,7 +505,6 @@
         "6201111b83a0cb5b0922cb37cc442b9a40e24e3b1ce100a4bb204f4c63fd2ac0": "および  ",
         "2b72811d5f06762fb4a13593977a2c4f1f709ecaa4ffec391f6767dd8f51450f": "プライバシーポリシー",
         "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8": "かしこまりました。テキストを提供していただければ、翻訳いたします。",
-        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Sure, please provide the text you need translated.",
         "d20b9be6dbbe2f4004c5dc79cf729e860125a385bca4b85fb89d8a2b0322b07a": "多くの知識に容易にアクセスできることで、どのように発展するか楽しみです。",
         "961ec02ed35d5a68462f62bd23e4f27494b23179af92c6510aae090f6e85a984": "ローレンス・W・シンクレア",
         "16b0bc4e04b491e7d7e718bae35e050be87e051960fa9d53f2f2458e3e641fbd": "リメンバライザーのCEO",
@@ -762,7 +761,6 @@
         "4ff3c916c860240b9dbe8fa551c268d381815ba3d6dc9221315d56a0bd08693d": "Hugging Face: ハギング フェイス ",
         "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "申し訳ありませんが、リンク先の内容を直接取得することはできません。しかし、スクリプトでページ内容を提供していただければ、翻訳をお手伝いできます。ページのテキストをここに入力していただけますか？",
         "550f30ce417616c4110b7996349710559cd29629dfb8ebe0ca893293b079f47c": "ドキュメント： ",
-        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials の内容を翻訳します。\n\nHuggingFace認証情報を追加する\n\n開始する前に、HuggingFaceのアカウントに登録していることを確認してください。また、HuggingFace APIトークンが必要です。以下の手順に従って認証情報を追加してください。\n\n1. Control Centerにログインします。\n2. サイドバーの「設定」タブをクリックします。\n3. 「インテグレーション」を選択します。\n4. 「新しいインテグレーションを追加」をクリックします。\n5. 「HuggingFace」を選択します。\n6. HuggingFace APIトークンを入力し、「保存」をクリックします。\n\nこれで、HuggingFaceインテグレーションがセットアップされました。",
         "e34adfbfb8c5e3aebcb223f5448f42ef72526f36d12aa55845a88d0b6ff1e7d4": "ビデオチュートリアル:",
         "7f19084ecce3205ad428554438d62b09a236c1eacb38557813ce495bd5c2b223": "SkyDeck.ai & Hugging Face：企業向け統合",
         "46ba1b1e00447d7bca347cd8ec51ebba9379cb3824ddc495e9ddf335d2b958cc": "イントロダクション:",
@@ -949,7 +947,9 @@
         "8f530ba91a5ed7c53bafd4650d3feb5bf30bea60dc30178f7d82bd2956e51f0c": "ド・ドローレ",
         "04dc6d2251401d6941df9fae16d911d49c0900e6826d485f97cd671382b48e87": "ドエットシット",
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "コンセクテトゥアアディピスシング",
-        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "座る 座る"
+        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "座る 座る",
+        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "かしこまりました。対象のコンテンツを入力してください。",
+        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials"
     },
     "ko": {
         "6ca41c929e3150a84cf42fb869e42f8ccd1205b4eb1e90d6ddee0089548783e1": "블로그 게시물",
@@ -981,7 +981,6 @@
         "6201111b83a0cb5b0922cb37cc442b9a40e24e3b1ce100a4bb204f4c63fd2ac0": "그리고  ",
         "2b72811d5f06762fb4a13593977a2c4f1f709ecaa4ffec391f6767dd8f51450f": "개인정보 보호 정책",
         "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8": "소프트웨어 및 기술 분야에서 혁신의 최전선에 위치한 우리는 비즈니스를 변화시키기 위해 최첨단 솔루션을 제공합니다. 당사의 전문 지식을 통해 기업은 생산성을 극대화하고, 비용을 절감하며, 경쟁력을 확보할 수 있습니다. 오늘날의 빠르게 변화하는 디지털 환경에서 성공하기 위해 필요한 도구와 리소스를 제공합니다. 함께 협력하여 미래를 만들어 나갑시다.",
-        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Sure, please provide the text you would like translated.",
         "d20b9be6dbbe2f4004c5dc79cf729e860125a385bca4b85fb89d8a2b0322b07a": "\"너무나 많은 지식에 쉽게 접근할 수 있게 되어 어떤 발전이 일어날지 기대됩니다.\"",
         "961ec02ed35d5a68462f62bd23e4f27494b23179af92c6510aae090f6e85a984": "로렌스 W. 싱클레어",
         "16b0bc4e04b491e7d7e718bae35e050be87e051960fa9d53f2f2458e3e641fbd": "Rememberizer CEO",
@@ -1238,7 +1237,6 @@
         "4ff3c916c860240b9dbe8fa551c268d381815ba3d6dc9221315d56a0bd08693d": "허깅 페이스: ",
         "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "죄송하지만, 링크로 연결된 특정 웹사이트의 콘텐츠를 볼 수 없습니다. 그래도 웹사이트에 있는 텍스트를 제공해 주시면 번역을 도와드리겠습니다.",
         "550f30ce417616c4110b7996349710559cd29629dfb8ebe0ca893293b079f47c": "문서: ",
-        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "Adding Hugging Face Credentials\n\nA guide on how to add your Hugging Face credentials to Skydeck AI.\n\nHugging Face integrations require an API token to authorize and access certain features and functionalities. Below are steps to include your Hugging Face credentials within Skydeck AI:\n\n1. Log in to your Skydeck AI account.\n2. Navigate to the Control Center.\n3. Click on \"Integrations\" in the sidebar menu.\n4. Select \"Hugging Face\" from the list of available integrations.\n5. Click on \"Add Credentials\".\n6. Enter your Hugging Face API token.\n7. Save the configuration.\n\nAfter successfully adding your credentials, you will be able to use Hugging Face models and datasets within Skydeck AI.",
         "e34adfbfb8c5e3aebcb223f5448f42ef72526f36d12aa55845a88d0b6ff1e7d4": "비디오 튜토리얼:",
         "7f19084ecce3205ad428554438d62b09a236c1eacb38557813ce495bd5c2b223": "SkyDeck.ai & Hugging Face: 비즈니스를 위한 통합",
         "46ba1b1e00447d7bca347cd8ec51ebba9379cb3824ddc495e9ddf335d2b958cc": "소개:",
@@ -1425,7 +1423,9 @@
         "8f530ba91a5ed7c53bafd4650d3feb5bf30bea60dc30178f7d82bd2956e51f0c": "고통을 느끼지 마세요",
         "04dc6d2251401d6941df9fae16d911d49c0900e6826d485f97cd671382b48e87": "두 엣 시트",
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "컨섹테투르 아디피스싱",
-        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "앉다 앉다"
+        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "앉다 앉다",
+        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "‍",
+        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials"
     },
     "es": {
         "6ca41c929e3150a84cf42fb869e42f8ccd1205b4eb1e90d6ddee0089548783e1": "Publicaciones del blog",
@@ -1457,7 +1457,6 @@
         "6201111b83a0cb5b0922cb37cc442b9a40e24e3b1ce100a4bb204f4c63fd2ac0": "y  ",
         "2b72811d5f06762fb4a13593977a2c4f1f709ecaa4ffec391f6767dd8f51450f": "política de privacidad",
         "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8": "Bienvenido a XYZ Tech. Somos líderes en innovación tecnológica y desarrollo de software. Nuestro equipo está dedicado a proporcionar soluciones de vanguardia que impulsen el éxito de su negocio. Explora nuestros servicios y descubre cómo podemos ayudarte a alcanzar tus metas tecnológicas. Contáctanos hoy para obtener más información.",
-        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Sure, please provide the specific text you would like to be translated.",
         "d20b9be6dbbe2f4004c5dc79cf729e860125a385bca4b85fb89d8a2b0322b07a": "Estoy emocionado de ver qué se desarrolla con un acceso tan fácil a tanto conocimiento.",
         "961ec02ed35d5a68462f62bd23e4f27494b23179af92c6510aae090f6e85a984": "Lawrence W. Sinclair",
         "16b0bc4e04b491e7d7e718bae35e050be87e051960fa9d53f2f2458e3e641fbd": "CEO de Rememberizer",
@@ -1714,7 +1713,6 @@
         "4ff3c916c860240b9dbe8fa551c268d381815ba3d6dc9221315d56a0bd08693d": "Hugging Face: ",
         "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "Lo siento, pero no puedo traducir contenido de una página web específica. Si me proporcionas el texto que necesitas traducir, estaré encantado de ayudarte.",
         "550f30ce417616c4110b7996349710559cd29629dfb8ebe0ca893293b079f47c": "Documentación: ",
-        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "Lo siento, pero no puedo acceder al contenido de la dirección URL que has proporcionado. Sin embargo, si me copias el texto que deseas traducir, estaré encantado de ayudarte con la traducción.",
         "e34adfbfb8c5e3aebcb223f5448f42ef72526f36d12aa55845a88d0b6ff1e7d4": "Tutorial en video:",
         "7f19084ecce3205ad428554438d62b09a236c1eacb38557813ce495bd5c2b223": "SkyDeck.ai y Hugging Face: Integración para Empresas",
         "46ba1b1e00447d7bca347cd8ec51ebba9379cb3824ddc495e9ddf335d2b958cc": "Introducción:",
@@ -1901,7 +1899,9 @@
         "8f530ba91a5ed7c53bafd4650d3feb5bf30bea60dc30178f7d82bd2956e51f0c": "Hacer Dolore",
         "04dc6d2251401d6941df9fae16d911d49c0900e6826d485f97cd671382b48e87": "Haz y Siéntate",
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "Consectetur Adipiscing",
-        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "Siéntate Siéntate"
+        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "Siéntate Siéntate",
+        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Por supuesto, por favor proporciona el contenido del sitio web corporativo de software y tecnología que deseas traducir al español.",
+        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials"
     },
     "it": {
         "6ca41c929e3150a84cf42fb869e42f8ccd1205b4eb1e90d6ddee0089548783e1": "Post del Blog",
@@ -1933,7 +1933,6 @@
         "6201111b83a0cb5b0922cb37cc442b9a40e24e3b1ce100a4bb204f4c63fd2ac0": "e  ",
         "2b72811d5f06762fb4a13593977a2c4f1f709ecaa4ffec391f6767dd8f51450f": "politica sulla privacy",
         "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8": "Chi siamo\n\nLa nostra missione è dare alle persone il potere di creare e condividere idee e informazioni senza confini. Crediamo che la tecnologia debba essere semplice, accessibile e sicura per tutti.\n\nI nostri servizi\n\nSviluppiamo soluzioni innovative che aiutano le aziende a crescere e prosperare nel mondo digitale. La nostra gamma di servizi copre tutto, dallo sviluppo software alla gestione dei dati e alla sicurezza informatica.\n\nContattaci\n\nSiamo sempre pronti ad ascoltare le tue esigenze e ad aiutarti a trovare la soluzione migliore per il tuo business. Contattaci oggi per scoprire come possiamo collaborare.",
-        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Sure, please provide the text you would like to have translated.",
         "d20b9be6dbbe2f4004c5dc79cf729e860125a385bca4b85fb89d8a2b0322b07a": "\"Sono entusiasta di vedere cosa si sviluppa con facile accesso a così tanta conoscenza.\"",
         "961ec02ed35d5a68462f62bd23e4f27494b23179af92c6510aae090f6e85a984": "Lawrence W. Sinclair",
         "16b0bc4e04b491e7d7e718bae35e050be87e051960fa9d53f2f2458e3e641fbd": "CEO di Rememberizer",
@@ -2190,7 +2189,6 @@
         "4ff3c916c860240b9dbe8fa551c268d381815ba3d6dc9221315d56a0bd08693d": "Hugging Face: ",
         "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "Siamo Skydeck AI.\n\nProdotto a cura di Skydeck e basato su Auto-GPT.\n\nSkydeck AI porta la potenza di Auto-GPT al tuo business in modo rapido, sicuro e scalabile!\n\nZoommalo.\n\nInformazioni su Skydeck.\n\nSkydeck è una società leader di consulenza sulla strategia che utilizza una combinazione unica di analisi approfondita, tecnologia proprietaria ed esperienza pratica per risolvere le sfide aziendali più difficili.",
         "550f30ce417616c4110b7996349710559cd29629dfb8ebe0ca893293b079f47c": "Documentazione: ",
-        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials\n\n**Aggiunta delle credenziali di Hugging Face**\n\nPer iniziare con l'integrazione del nostro servizio con Hugging Face, è necessario aggiungere le credenziali appropriate. Segui questi passaggi dettagliati per configurare con successo Hugging Face con il nostro sistema.\n\n1. Accedi alla Dashboard di Hugging Face:\n   - Vai su Hugging Face e accedi al tuo account. Se non hai un account, registrati prima di procedere.\n   \n2. Naviga verso le impostazioni API:\n   - Una volta effettuato l’accesso, vai su \"Settings\" (Impostazioni) dal menu utente nell'angolo in alto a destra.\n   - Nel menu \"Settings\", trova e seleziona \"API tokens\" (Token API).\n\n3. Genera un nuovo token API:\n   - Clicca su \"New token\" (Nuovo token) per generare un nuovo token API.\n   - Assegna un nome al token e scegli le autorizzazioni appropriate per il tuo caso d'uso.\n   - Clicca su \"Create\" (Crea) per generare il token. Assicurati di copiare il token generato poiché sarà visibile solo una volta.\n\n4. Aggiungi il token API al nostro sistema:\n   - Torna al nostro \"Control Center\" (Centro di Controllo) e accedi con le tue credenziali.\n   - Naviga alla sezione \"Integrations\" (Integrazioni) e seleziona \"Hugging Face\".\n   - Inserisci il token API copiato nel campo pertinente e salva le modifiche.\n\n5. Verifica l'integrazione:\n   - Dopo aver aggiunto il token API, il sistema verificherà automaticamente la validità del token e la connessione a Hugging Face.\n   - Se il token è valido, vedrai un messaggio di conferma e l'integrazione sarà completata.\n\nCongratulazioni! Ora hai integrato con successo Hugging Face con il nostro sistema. Se hai bisogno di ulteriore assistenza, consulta la nostra documentazione o contatta il nostro supporto tecnico.",
         "e34adfbfb8c5e3aebcb223f5448f42ef72526f36d12aa55845a88d0b6ff1e7d4": "Video tutorial:",
         "7f19084ecce3205ad428554438d62b09a236c1eacb38557813ce495bd5c2b223": "SkyDeck.ai & Hugging Face: Integrazione per le imprese",
         "46ba1b1e00447d7bca347cd8ec51ebba9379cb3824ddc495e9ddf335d2b958cc": "Introduzione:",
@@ -2377,6 +2375,8 @@
         "8f530ba91a5ed7c53bafd4650d3feb5bf30bea60dc30178f7d82bd2956e51f0c": "Fai Dolore",
         "04dc6d2251401d6941df9fae16d911d49c0900e6826d485f97cd671382b48e87": "Fai Et Sit",
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "Consectetur Adipiscing",
-        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "Siediti Siediti"
+        "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "Siediti Siediti",
+        "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Sure, please provide the text you need to be translated.",
+        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials"
     }
 }
