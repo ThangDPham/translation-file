@@ -258,7 +258,6 @@
         "cfeeea5ccaf2329c7bf60a4a3a9da27df050170fd063b2cec38469e40e555852": "26,99 $",
         "76f68a75f01ed76f5a02ada71a3765a38ef2c45ba99106ee5a4bd5678d7bbdd0": "Affaires",
         "65a5f59b5648485a3f2153bacbc5e9984ea14d580f4d3c26a6ac630b0864c6be": "99,50 $",
-        "88dbb9d9431e12e5cd5794763b277be1126b380e716e14c17ada4b7d47a2c6cf": "Pourquoi est-ce important pour les entreprises ?",
         "96ed61725111817361b14a5e245a146fb5e009b3cb20a94b8da64a0993718fd4": "SkyDeck.ai permet à votre entreprise de déployer son LLM personnalisé à tous les intervenants et employés en quelques minutes. Tout le monde disposera d'une interface utilisateur familière et facile à utiliser pour votre LLM.",
         "9faba38dc9d9f92821beb296da6ab4af1c1e332d6d9b3ebd785335b26bead10f": "Il est important de considérer comment cette intégration se rapporte à une entreprise développant des LLMs avec une vision de les déployer pour toute personne dans leur organisation, leurs partenaires, et leurs utilisateurs finaux/clients. Les Large Language Models (LLMs) privés, voire commerciaux, ont besoin de moyens meilleurs, plus sûrs et plus sécurisés pour que les utilisateurs puissent interagir avec eux.",
         "31b780dee507235f6e2762a4c3bbd1ae489329b3036e92823fd9085754299e89": "L'intelligence artificielle (IA) transforme rapidement le paysage commercial, offrant une efficacité opérationnelle et des opportunités de croissance sans précédent. Une multitude d'études rapportent des augmentations significatives de la productivité dans de nombreux domaines lorsque les travailleurs ont accès à l'Intelligence Artificielle Générative. SkyDeck.ai est une plateforme de productivité IA sécurisée centrée sur les entreprises. Nous nous engageons à permettre aux organisations de toute taille de déployer des outils IA avec sécurité, contrôle et visibilité – sans verrouillage fournisseur. L'intégration récente avec ",
@@ -283,7 +282,6 @@
         "dc151a4a5bc3af10efe84b8af68dfd2bdfe83fb96ea045fcd6118de318484671": "SkyDeck.ai + HuggingFace Icon fusionnés en utilisant Midjourney blend",
         "f0d82a7ab9cfdb9bdf2df66783501a129638c352697edc5da83b61e8ec97ec5f": "Plus d'informations :",
         "4ff3c916c860240b9dbe8fa551c268d381815ba3d6dc9221315d56a0bd08693d": "Hugging Face: ",
-        "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "Désolé, je ne peux pas accéder directement à des liens ou du contenu web. Si vous me fournissez le texte spécifique à traduire, je serai heureux de vous aider avec la traduction en français.",
         "550f30ce417616c4110b7996349710559cd29629dfb8ebe0ca893293b079f47c": "Documentation : ",
         "e34adfbfb8c5e3aebcb223f5448f42ef72526f36d12aa55845a88d0b6ff1e7d4": "Tutoriel vidéo :",
         "7f19084ecce3205ad428554438d62b09a236c1eacb38557813ce495bd5c2b223": "SkyDeck.ai & Hugging Face : Intégration pour les entreprises",
@@ -473,7 +471,9 @@
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "Consectetur Adipiscing",
         "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "S'asseoir S'asseoir",
         "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Compris. Veuillez fournir le texte que vous souhaitez que je traduise.",
-        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials"
+        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials",
+        "88dbb9d9431e12e5cd5794763b277be1126b380e716e14c17ada4b7d47a2c6cf": "Pourquoi est-ce important pour les entreprises ?",
+        "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "https://huggingface.co/skydeckai"
     },
     "ja": {
         "6ca41c929e3150a84cf42fb869e42f8ccd1205b4eb1e90d6ddee0089548783e1": "ブログ投稿",
@@ -734,7 +734,6 @@
         "cfeeea5ccaf2329c7bf60a4a3a9da27df050170fd063b2cec38469e40e555852": "$26.99",
         "76f68a75f01ed76f5a02ada71a3765a38ef2c45ba99106ee5a4bd5678d7bbdd0": "ビジネス",
         "65a5f59b5648485a3f2153bacbc5e9984ea14d580f4d3c26a6ac630b0864c6be": "99.50ドル",
-        "88dbb9d9431e12e5cd5794763b277be1126b380e716e14c17ada4b7d47a2c6cf": "なぜ企業にとって重要なのか？",
         "96ed61725111817361b14a5e245a146fb5e009b3cb20a94b8da64a0993718fd4": "SkyDeck.aiは、企業がカスタムLLMをすべての利害関係者および従業員に数分で展開することを可能にします。全員が使い慣れた簡単なユーザーインターフェースをLLMに持つことができます。",
         "9faba38dc9d9f92821beb296da6ab4af1c1e332d6d9b3ebd785335b26bead10f": "組織内の誰でも、パートナー、そして最終ユーザー/顧客のために展開することを視野に入れているビジネスにとって、この統合がどのように関連しているかを考慮することは重要です。プライベートであろうと商業用であろうと、大規模言語モデル（LLM）は、ユーザーがより良く、より安全で、よりセキュアに対話する方法を必要としています。",
         "31b780dee507235f6e2762a4c3bbd1ae489329b3036e92823fd9085754299e89": "人工知能（AI）は、ビジネスの状況を急速に変革しており、かつてない運用効率と成長の機会を提供しています。多くの研究は、従業員が生成AIにアクセスできるようになると、多くの分野で生産性が大幅に向上することを報告しています。SkyDeck.aiは、セキュアでビジネスを最優先とするAI生産性プラットフォームです。私たちは、あらゆる規模の組織がセキュリティ、管理、可視性を備えたAIツールを導入できるように尽力しており、ベンダーロックインを避けられるよう支援しています。最近の統合により ",
@@ -759,7 +758,6 @@
         "dc151a4a5bc3af10efe84b8af68dfd2bdfe83fb96ea045fcd6118de318484671": "SkyDeck.ai + HuggingFace Icon を Midjourney ブレンドで統合。",
         "f0d82a7ab9cfdb9bdf2df66783501a129638c352697edc5da83b61e8ec97ec5f": "詳しくはこちら:",
         "4ff3c916c860240b9dbe8fa551c268d381815ba3d6dc9221315d56a0bd08693d": "Hugging Face: ハギング フェイス ",
-        "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "申し訳ありませんが、リンク先の内容を直接取得することはできません。しかし、スクリプトでページ内容を提供していただければ、翻訳をお手伝いできます。ページのテキストをここに入力していただけますか？",
         "550f30ce417616c4110b7996349710559cd29629dfb8ebe0ca893293b079f47c": "ドキュメント： ",
         "e34adfbfb8c5e3aebcb223f5448f42ef72526f36d12aa55845a88d0b6ff1e7d4": "ビデオチュートリアル:",
         "7f19084ecce3205ad428554438d62b09a236c1eacb38557813ce495bd5c2b223": "SkyDeck.ai & Hugging Face：企業向け統合",
@@ -949,7 +947,9 @@
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "コンセクテトゥアアディピスシング",
         "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "座る 座る",
         "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "かしこまりました。対象のコンテンツを入力してください。",
-        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials"
+        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials",
+        "88dbb9d9431e12e5cd5794763b277be1126b380e716e14c17ada4b7d47a2c6cf": "なぜ企業にとって重要なのか？",
+        "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "https://huggingface.co/skydeckai"
     },
     "ko": {
         "6ca41c929e3150a84cf42fb869e42f8ccd1205b4eb1e90d6ddee0089548783e1": "블로그 게시물",
@@ -1210,7 +1210,6 @@
         "cfeeea5ccaf2329c7bf60a4a3a9da27df050170fd063b2cec38469e40e555852": "$26.99",
         "76f68a75f01ed76f5a02ada71a3765a38ef2c45ba99106ee5a4bd5678d7bbdd0": "비즈니스",
         "65a5f59b5648485a3f2153bacbc5e9984ea14d580f4d3c26a6ac630b0864c6be": "$99.50",
-        "88dbb9d9431e12e5cd5794763b277be1126b380e716e14c17ada4b7d47a2c6cf": "왜 기업에 중요할까요?",
         "96ed61725111817361b14a5e245a146fb5e009b3cb20a94b8da64a0993718fd4": "SkyDeck.ai는 여러분의 기업이 맞춤형 LLM을 모든 이해관계자와 직원들에게 몇 분 만에 배포할 수 있도록 합니다. 모든 사람들은 여러분의 LLM에 익숙하고 사용하기 쉬운 사용자 인터페이스를 갖게 될 것입니다.",
         "9faba38dc9d9f92821beb296da6ab4af1c1e332d6d9b3ebd785335b26bead10f": "이 통합이 조직, 파트너 및 최종 사용자/고객을 위해 LLM을 배포하려는 비즈니스와 어떻게 관련되는지 고려하는 것이 중요합니다. 사적이거나 상업적인 대규모 언어 모델(LLM)은 사용자들이 더 나은, 더 안전하고, 더 보안된 방식으로 상호 작용할 수 있는 방법이 필요합니다.",
         "31b780dee507235f6e2762a4c3bbd1ae489329b3036e92823fd9085754299e89": "인공지능 (AI)은 비즈니스 환경을 빠르게 변화시키며 전례 없는 운영 효율성과 성장 기회를 제공하고 있습니다. 여러 연구에서는 근로자가 생성형 AI에 접근할 수 있을 때 많은 분야에서 생산성이 크게 증가한다고 보고하고 있습니다. SkyDeck.ai는 안전한 비즈니스 우선 AI 생산성 플랫폼입니다. 우리는 모든 규모의 조직이 벤더 종속 없이 보안, 통제, 가시성을 갖춘 AI 도구를 배포할 수 있도록 하는 데 전념하고 있습니다. 최근 통합된 ",
@@ -1235,7 +1234,6 @@
         "dc151a4a5bc3af10efe84b8af68dfd2bdfe83fb96ea045fcd6118de318484671": "SkyDeck.ai + HuggingFace 합성 Midjourney blend 사용",
         "f0d82a7ab9cfdb9bdf2df66783501a129638c352697edc5da83b61e8ec97ec5f": "추가 정보:",
         "4ff3c916c860240b9dbe8fa551c268d381815ba3d6dc9221315d56a0bd08693d": "허깅 페이스: ",
-        "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "죄송하지만, 링크로 연결된 특정 웹사이트의 콘텐츠를 볼 수 없습니다. 그래도 웹사이트에 있는 텍스트를 제공해 주시면 번역을 도와드리겠습니다.",
         "550f30ce417616c4110b7996349710559cd29629dfb8ebe0ca893293b079f47c": "문서: ",
         "e34adfbfb8c5e3aebcb223f5448f42ef72526f36d12aa55845a88d0b6ff1e7d4": "비디오 튜토리얼:",
         "7f19084ecce3205ad428554438d62b09a236c1eacb38557813ce495bd5c2b223": "SkyDeck.ai & Hugging Face: 비즈니스를 위한 통합",
@@ -1425,7 +1423,9 @@
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "컨섹테투르 아디피스싱",
         "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "앉다 앉다",
         "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "‍",
-        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials"
+        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials",
+        "88dbb9d9431e12e5cd5794763b277be1126b380e716e14c17ada4b7d47a2c6cf": "왜 기업에게 중요할까요?",
+        "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "https://huggingface.co/skydeckai"
     },
     "es": {
         "6ca41c929e3150a84cf42fb869e42f8ccd1205b4eb1e90d6ddee0089548783e1": "Publicaciones del blog",
@@ -1686,7 +1686,6 @@
         "cfeeea5ccaf2329c7bf60a4a3a9da27df050170fd063b2cec38469e40e555852": "$26.99",
         "76f68a75f01ed76f5a02ada71a3765a38ef2c45ba99106ee5a4bd5678d7bbdd0": "Negocios",
         "65a5f59b5648485a3f2153bacbc5e9984ea14d580f4d3c26a6ac630b0864c6be": "$99.50",
-        "88dbb9d9431e12e5cd5794763b277be1126b380e716e14c17ada4b7d47a2c6cf": "¿Por qué es importante para los negocios?",
         "96ed61725111817361b14a5e245a146fb5e009b3cb20a94b8da64a0993718fd4": "SkyDeck.ai permite a su empresa desplegar su LLM personalizado a todos los interesados y empleados en cuestión de minutos. Todos tendrán una interfaz de usuario familiar y fácil de usar para su LLM.",
         "9faba38dc9d9f92821beb296da6ab4af1c1e332d6d9b3ebd785335b26bead10f": "Es importante considerar cómo esta integración se relaciona con un negocio que desarrolla LLMs con la visión de desplegarlos para cualquier persona en su organización, sus socios y sus usuarios finales/clientes. Los Modelos de Lenguaje Grande (LLMs) privados, incluso comerciales, necesitan formas mejores, más seguras y más protegidas para que los usuarios interactúen con ellos.",
         "31b780dee507235f6e2762a4c3bbd1ae489329b3036e92823fd9085754299e89": "La inteligencia artificial (IA) está transformando rápidamente el panorama empresarial, ofreciendo una eficiencia operativa sin precedentes y oportunidades de crecimiento. Una serie de estudios reportan aumentos significativos en la productividad en muchos dominios cuando los trabajadores tienen acceso a Generative AI. SkyDeck.ai es una plataforma segura de productividad empresarial con IA. Nos comprometemos a permitir que organizaciones de cualquier tamaño desplieguen herramientas de IA con seguridad, control y visibilidad, sin dependencia de proveedores. La reciente integración con ",
@@ -1711,7 +1710,6 @@
         "dc151a4a5bc3af10efe84b8af68dfd2bdfe83fb96ea045fcd6118de318484671": "SkyDeck.ai + HuggingFace Icon fusionado usando Midjourney blend",
         "f0d82a7ab9cfdb9bdf2df66783501a129638c352697edc5da83b61e8ec97ec5f": "Más información:",
         "4ff3c916c860240b9dbe8fa551c268d381815ba3d6dc9221315d56a0bd08693d": "Hugging Face: ",
-        "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "Lo siento, pero no puedo traducir contenido de una página web específica. Si me proporcionas el texto que necesitas traducir, estaré encantado de ayudarte.",
         "550f30ce417616c4110b7996349710559cd29629dfb8ebe0ca893293b079f47c": "Documentación: ",
         "e34adfbfb8c5e3aebcb223f5448f42ef72526f36d12aa55845a88d0b6ff1e7d4": "Tutorial en video:",
         "7f19084ecce3205ad428554438d62b09a236c1eacb38557813ce495bd5c2b223": "SkyDeck.ai y Hugging Face: Integración para Empresas",
@@ -1901,7 +1899,9 @@
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "Consectetur Adipiscing",
         "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "Siéntate Siéntate",
         "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Por supuesto, por favor proporciona el contenido del sitio web corporativo de software y tecnología que deseas traducir al español.",
-        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials"
+        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials",
+        "88dbb9d9431e12e5cd5794763b277be1126b380e716e14c17ada4b7d47a2c6cf": "¿Por qué es importante para las empresas?",
+        "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "https://huggingface.co/skydeckai"
     },
     "it": {
         "6ca41c929e3150a84cf42fb869e42f8ccd1205b4eb1e90d6ddee0089548783e1": "Post del Blog",
@@ -2162,7 +2162,6 @@
         "cfeeea5ccaf2329c7bf60a4a3a9da27df050170fd063b2cec38469e40e555852": "26,99 $",
         "76f68a75f01ed76f5a02ada71a3765a38ef2c45ba99106ee5a4bd5678d7bbdd0": "Affari",
         "65a5f59b5648485a3f2153bacbc5e9984ea14d580f4d3c26a6ac630b0864c6be": "$99,50",
-        "88dbb9d9431e12e5cd5794763b277be1126b380e716e14c17ada4b7d47a2c6cf": "Perché è importante per le aziende?",
         "96ed61725111817361b14a5e245a146fb5e009b3cb20a94b8da64a0993718fd4": "SkyDeck.ai consente alla tua azienda di distribuire il suo LLM personalizzato a tutti gli stakeholder e dipendenti in pochi minuti. Tutti avranno un'interfaccia utente familiare e facile da usare per il tuo LLM.",
         "9faba38dc9d9f92821beb296da6ab4af1c1e332d6d9b3ebd785335b26bead10f": "È importante considerare come questa integrazione si relaziona a un'azienda che sviluppa LLM con la visione di distribuirli a chiunque nella propria organizzazione, ai propri partner e agli utenti finali/clienti. I Modelli Linguistici Estesi (LLM) privati, anche commerciali, necessitano di modi migliori, più sicuri e protetti per consentire agli utenti di interagire con essi.",
         "31b780dee507235f6e2762a4c3bbd1ae489329b3036e92823fd9085754299e89": "L'Intelligenza Artificiale (IA) sta rapidamente trasformando il panorama aziendale, offrendo opportunità di crescita e un'efficienza operativa senza precedenti. Numerosi studi riportano aumenti significativi della produttività in molti settori quando i lavoratori hanno accesso all'IA Generativa. SkyDeck.ai è una piattaforma di produttività IA sicura, orientata al business. Siamo impegnati a consentire alle organizzazioni di qualsiasi dimensione di implementare strumenti IA con sicurezza, controllo e visibilità, senza dipendenza dai fornitori. ",
@@ -2187,7 +2186,6 @@
         "dc151a4a5bc3af10efe84b8af68dfd2bdfe83fb96ea045fcd6118de318484671": "SkyDeck.ai + HuggingFace Icon fusi utilizzando Midjourney blend",
         "f0d82a7ab9cfdb9bdf2df66783501a129638c352697edc5da83b61e8ec97ec5f": "Maggiori informazioni:",
         "4ff3c916c860240b9dbe8fa551c268d381815ba3d6dc9221315d56a0bd08693d": "Hugging Face: ",
-        "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "Siamo Skydeck AI.\n\nProdotto a cura di Skydeck e basato su Auto-GPT.\n\nSkydeck AI porta la potenza di Auto-GPT al tuo business in modo rapido, sicuro e scalabile!\n\nZoommalo.\n\nInformazioni su Skydeck.\n\nSkydeck è una società leader di consulenza sulla strategia che utilizza una combinazione unica di analisi approfondita, tecnologia proprietaria ed esperienza pratica per risolvere le sfide aziendali più difficili.",
         "550f30ce417616c4110b7996349710559cd29629dfb8ebe0ca893293b079f47c": "Documentazione: ",
         "e34adfbfb8c5e3aebcb223f5448f42ef72526f36d12aa55845a88d0b6ff1e7d4": "Video tutorial:",
         "7f19084ecce3205ad428554438d62b09a236c1eacb38557813ce495bd5c2b223": "SkyDeck.ai & Hugging Face: Integrazione per le imprese",
@@ -2377,6 +2375,8 @@
         "f0bd3811a86b599b8b68b196e3652130c0408fbce20a2668407b2bf545e726e1": "Consectetur Adipiscing",
         "ad1712bdfee1da6c95d9a8034229c2bd7edf801e9b09efbb6577f616ab64890f": "Siediti Siediti",
         "b34b7a15cf631544f3bfd30f601dc2c6953760b956eb1d40aea01c7f8bacd118": "Sure, please provide the text you need to be translated.",
-        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials"
+        "877e9830c074f2de94c04bf6e1193373dc0c6fd812466694698b70c13d997d4b": "https://docs.skydeck.ai/en/control-center/setup-guide/set-up-integrations/adding-huggingface-credentials",
+        "88dbb9d9431e12e5cd5794763b277be1126b380e716e14c17ada4b7d47a2c6cf": "Perché è importante per le aziende?",
+        "067c80934906ffefca725d0fb7dcd0a7ffdd8055c8a7b1e24f75a65b65e9c00c": "https://huggingface.co/skydeckai"
     }
 }
